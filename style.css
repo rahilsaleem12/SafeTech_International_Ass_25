@@ -157,6 +157,11 @@ width: 90%;
 margin-left: 20px;
 
 }
+.sec3heading{
+    text-align: center;
+color: rgb(136, 100, 9);
+font-size: 20px;
+}
 
 
 .Topsection img{
@@ -338,11 +343,12 @@ width: 100%;
     margin: 0%;
     height: 20px;
     flex-direction: row;
-        width: 45px;
+        width: 50px;
     text-align: center;
     padding-top: 10px;
     color: rgb(83, 80, 80);
-    font-size: 8px;
+    font-size: 10px;
+    font-weight: bold;
     
 }
 .Navbar ul li:hover {
@@ -491,7 +497,7 @@ display: block;
 
 
 .section4{
-    width: 70%;
+    width: 90%;
     margin: 0% auto;
     
 }
@@ -507,14 +513,16 @@ flex-direction: column;
 }
 .sec4image1{
 width: 100%;
+margin-top: 80px;
+
 }
 .sec4image2{
 width: 100%;
-margin-top: 50px;
+margin-top: 80px;
 }
 .sec4image3{
 width: 100%;
-margin-top: 50px;
+margin-top: 80px;
 
 }
 .sec4image1 img{
