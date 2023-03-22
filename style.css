@@ -469,7 +469,7 @@ text-align: center;
 font-size: large;
 height: 550px;
 margin-top: 20px;
-width: 100%;
+width: 90%;
 display: block;
 /* margin-left: 0%; */
 
@@ -483,7 +483,7 @@ border-radius: 10px;
 text-align: center;
 font-size: large;
 height: 550px;
-width: 100%;
+width: 90%;
 margin-top: 20px;
 margin-left: 0%;
 display: block;
@@ -557,7 +557,7 @@ height: 250px;
     color: rgb(136, 100, 9);
 }
 .iconbox1{
-    width: 100%;
+    width: 90%;
     height: 210px;
     background-color:rgb(0, 0, 0);
     padding: 0px 15px 0px 15px;
@@ -566,7 +566,7 @@ height: 250px;
     margin-left: 0%;
 }
 .iconbox2{
-    width: 100%;
+    width: 90%;
     height: 210px;
     background-color:darkgoldenrod;
     padding: 0px 15px 0px 15px;
@@ -582,7 +582,7 @@ height: 250px;
     background-color:rgb(0, 0, 0);
     padding: 0px 15px 0px 15px;
     color: white;
-    width: 100%;
+    width: 90%;
     height: 210px;
     border-radius: 10px;
     /* margin-left: 0%; */
@@ -593,7 +593,7 @@ height: 250px;
     background-color:darkgoldenrod;
     padding: 10px 15px 0px 15px;
     color: white;
-    width: 100%;
+    width: 90%;
     height: 210px;
     border-radius: 10px;
     margin-top: 20px;
@@ -605,14 +605,14 @@ height: 250px;
 .iconbox1or2{
     /* display: flex; */
     flex-direction: column;
-    width: 80%;
+    width: 100%;
     margin: 0% auto;
     margin-right: 10%;
 }
 .iconbox3or4{
     /* display: flex; */
     flex-direction: column;
-    width: 80%;
+    width: 100%;
     margin: 0% auto;
 }
 .footerbar ul li{
