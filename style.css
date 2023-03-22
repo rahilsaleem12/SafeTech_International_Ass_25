@@ -367,8 +367,8 @@ display: block;
     font-size: 20px;
 }
 .sec1button{
-    width: 90px;
-    height: 40px;
+    width:110px;
+    height: 50px;
     background-color:  rgb(136, 100, 9);
     color: white;
     border: none;
@@ -387,11 +387,12 @@ display: block;
 .section2{
    
     margin-top: 70px;
+    flex-direction: column;
  
 }
 .aboutus{
     width: 100%;
-    height: 600px;
+    height: 450px;
     font-size: 15px;
     padding-left: 5%;
     padding-right: 5%;
@@ -411,10 +412,10 @@ display: block;
 .sec2image{
     /* display: block; */
     width: 100%;
-    display: none;
+    /* display: none; */
 }
 .sec2image img{
-    height: 550px;
+    height: 400px;
     width: 100%;
 }
 
@@ -444,15 +445,18 @@ display: block;
 }
 .sec3vision{
 background-color: darkgoldenrod;;
-padding-left: 20px;
-padding-right: 20px;
+
+/* padding-left: 20px;
+padding-right: 20px; */
 border-radius: 10px;
 text-align: center;
-font-size: larger;
-margin-top: 20px;
-height: 600px;
+font-size: large;
+height: 550px;
 width: 100%;
-display: block;
+margin: 0% auto;
+margin-left: 0%;
+
+
 
 }
 .sec3mision{
@@ -461,11 +465,13 @@ padding-left: 20px;
 padding-right: 20px;
 border-radius: 10px;
 text-align: center;
-font-size: larger;
-height: 600px;
+font-size: large;
+height: 550px;
 margin-top: 20px;
 width: 100%;
 display: block;
+margin-left: 0%;
+
 
 }
 .sec3values{
@@ -474,10 +480,11 @@ padding-left: 20px;
 padding-right: 20px;
 border-radius: 10px;
 text-align: center;
-font-size: larger;
-height: 600px;
+font-size: large;
+height: 550px;
 width: 100%;
 margin-top: 20px;
+margin-left: 0%;
 display: block;
 }
 
@@ -550,40 +557,46 @@ height: 250px;
 }
 .iconbox1{
     width: 100%;
-    height: 190px;
+    height: 210px;
     background-color:rgb(0, 0, 0);
-    padding: 0px 30px 0px 30px;
+    padding: 0px 15px 0px 15px;
     color: white;
     border-radius: 10px;
+    margin-left: 0%;
 }
 .iconbox2{
     width: 100%;
-    height: 190px;
+    height: 210px;
     background-color:darkgoldenrod;
-    padding: 0px 30px 0px 30px;
+    padding: 0px 15px 0px 15px;
     color: white;
     border-radius: 10px;
     margin-top: 20px;
+    margin-left: 0%;
+
 
 
 }
 .iconbox3{
-    background-color:darkgoldenrod;
-    padding: 0px 30px 0px 30px;
+    background-color:rgb(0, 0, 0);
+    padding: 0px 15px 0px 15px;
     color: white;
     width: 100%;
-    height: 190px;
+    height: 210px;
     border-radius: 10px;
+    margin-left: 0%;
+
 
 }
 .iconbox4{
-    background-color:rgb(0, 0, 0);
-    padding: 0px 30px 0px 30px;
+    background-color:darkgoldenrod;
+    padding: 10px 15px 0px 15px;
     color: white;
     width: 100%;
-    height: 180px;
+    height: 210px;
     border-radius: 10px;
     margin-top: 20px;
+    margin-left: 0%;
 
 }
 .iconbox1or2{
@@ -601,8 +614,8 @@ height: 250px;
 .footerbar ul li{
 text-decoration: none;
 display: inline-block;
-margin: 1px;
-padding-top: 50px;
+margin: 5px;
+padding-top: 20px;
 cursor: pointer;
 }
 .footer{
